@@ -2492,6 +2492,7 @@ insincerity
 insinuate
 insinuating
 insinuation
+insipid
 insociable
 insolence
 insolent
@@ -3040,7 +3041,7 @@ nauseate
 nauseates
 nauseating
 nauseatingly
-naïve
+naÃ¯ve
 nebulous
 nebulously
 needless
